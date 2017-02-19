@@ -29,4 +29,4 @@ The result will contains:
 
 <li>Any feedback are welcomed. You can contact me via email at <b>m[d0t]khairulazam@gmail[d0t]com</b>.</li>
 
-<li>Credit for this <a href="http://snippets1000.blogspot.my/2012/09/scapy-and-http.html">blog</a> for the origianl code. :)</li>
+<li>Credit for this <a href="http://snippets1000.blogspot.my/2012/09/scapy-and-http.html">blog</a> for the original code. :)</li>
