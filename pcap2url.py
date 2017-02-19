@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#
+# pcap2url v0.2 (on 19 Feb 2017)
+# Any issue/suggestion, please email to m[d0t]khairulazam[@]gmail[d0t]com
 
 import sys
 from scapy.all import *
