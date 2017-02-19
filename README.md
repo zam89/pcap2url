@@ -1,7 +1,7 @@
 # pcap2url
 Extracting URLs from PCAP file
 
-![alt tag](https://raw.githubusercontent.com/zam89/pcap2url/master/screenshot.JPG)
+![alt tag](https://raw.githubusercontent.com/zam89/pcap2url/master/screenshot.jpg)
 
 <h1>About</h1>
 <p>This system basically extracting URLs inside PCAP file into more human-friendly and beautiful format. :p</p>
