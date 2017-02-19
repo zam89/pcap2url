@@ -23,6 +23,7 @@ The result will contains:
   <li>Install Python2.7 (currently I'm running Python 2.7.10)</li>
   <li>Install pip module</li>
   <li>Install scapy, scapy-http via pip -e.g. pip install scapy scapy-http</li>
+  <li>Download "__init__.py" to "C:\Python27\Lib\site-packages\scapy\arch\windows"</li>
   <li>Run this code: python pcap2url.py file-sample.pcap</li>
   <li>Profit! :)</li>
 </ol>
