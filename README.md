@@ -20,10 +20,13 @@ The result will contains:
 <h1>How to use</h1>
 <ol>
   <li>Clone/download this code</li>
-  <li>Install Python2.7, pip</li>
+  <li>Install Python2.7 (currently I'm running Python 2.7.10)</li>
+  <li>Install pip module</li>
   <li>Install scapy, scapy-http via pip -e.g. pip install scapy scapy-http</li>
   <li>Run this code: python pcap2url.py file-sample.pcap</li>
   <li>Profit! :)</li>
 </ol>
 
 <li>Any feedback are welcomed. You can contact me via email at <b>m[d0t]khairulazam@gmail[d0t]com</b>.</li>
+
+<li>Credit for this <a href="http://snippets1000.blogspot.my/2012/09/scapy-and-http.html">blog</a> for the origianl code. :)</li>
