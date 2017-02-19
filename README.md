@@ -22,7 +22,7 @@ The result will contains:
   <li>Clone/download this code</li>
   <li>Install Python2.7, pip</li>
   <li>Install scapy, scapy-http via pip -e.g. pip install scapy scapy-http</li>
-  <li>Run this code: python pcap-url file-sample.pcap</li>
+  <li>Run this code: python pcap2url.py file-sample.pcap</li>
   <li>Profit! :)</li>
 </ol>
 
