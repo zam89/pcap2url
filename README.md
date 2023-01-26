@@ -1,10 +1,10 @@
 # pcap2url
-Extracting URLs from PCAP file
+Viewing HTTP request & response, extracting URLs from PCAP file
 
 ![alt tag](https://raw.githubusercontent.com/zam89/pcap2url/master/screenshot.jpg)
 
 <h1>About</h1>
-<p>This system basically extracting URLs inside PCAP file into more human-friendly and beautiful format. :p</p>
+<p>This script basically shows HTTP request & response, extracting URLs and filename (if any) from PCAP file into more human-friendly and beautiful format. :p</p>
 <p>This is just a layman's coding style. Create this just for fun and for learning purpose.</p>
 
 <p><h1>Main Function</h1></p>
@@ -14,17 +14,23 @@ The result will contains:
   <li>Source IP</li>
   <li>HTTP Method</li>
   <li>Requested URL</li>
+  <li>Timestamp</li>
+  <li>Dest IP</li>
+  <li>User-Agent</li>
+  <li>Referer</li>
   <li>HTTP Response</li>
+  <li>Filename</li>
+  <li>Content_Type</li>
 </ul>
 
 <h1>How to use</h1>
 <ol>
-  <li>Clone/download this code</li>
-  <li>Install Python2.7 (currently I'm running Python 2.7.10)</li>
-  <li>Install pip module</li>
+  <li>Download the Python script</li>
+  <li>Ensure you have Python3+ installed (currently I'm running Python 3.9.1)</li>
+  <li>Ensure you have pip installed</li>
+  <li>Ensure you have Wireshark installed</li>
   <li>Install scapy, scapy-http via pip -e.g. pip install scapy scapy-http</li>
-  <li>Download "__init__.py" to "C:\Python27\Lib\site-packages\scapy\arch\windows"</li>
-  <li>Run this code: python pcap2url.py file-sample.pcap</li>
+  <li>Run the script: python pcap2url.py sample.pcap</li>
   <li>Profit! :)</li>
 </ol>
 
