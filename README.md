@@ -1,7 +1,7 @@
 # pcap2url
 Viewing HTTP request & response, extracting URLs from PCAP file
 
-![alt tag](https://raw.githubusercontent.com/zam89/pcap2url/master/screenshot.jpg)
+![alt tag](pcap2url-v0.3_screenshot.png)
 
 <h1>About</h1>
 <p>This script basically shows HTTP request & response, extracting URLs and filename (if any) from PCAP file into more human-friendly and beautiful format. :p</p>
